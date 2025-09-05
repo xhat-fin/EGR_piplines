@@ -1,6 +1,591 @@
 [
     {
         "Cur_ID": 431,
+        "Date": "2024-09-06T00:00:00",
+        "Cur_OfficialRate": 3.1657
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-07T00:00:00",
+        "Cur_OfficialRate": 3.1657
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-08T00:00:00",
+        "Cur_OfficialRate": 3.1657
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-09T00:00:00",
+        "Cur_OfficialRate": 3.1731
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-10T00:00:00",
+        "Cur_OfficialRate": 3.1676
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-11T00:00:00",
+        "Cur_OfficialRate": 3.1821
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-12T00:00:00",
+        "Cur_OfficialRate": 3.1981
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-13T00:00:00",
+        "Cur_OfficialRate": 3.1893
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-14T00:00:00",
+        "Cur_OfficialRate": 3.1893
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-15T00:00:00",
+        "Cur_OfficialRate": 3.1893
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-16T00:00:00",
+        "Cur_OfficialRate": 3.1852
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-17T00:00:00",
+        "Cur_OfficialRate": 3.1913
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-18T00:00:00",
+        "Cur_OfficialRate": 3.1986
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-19T00:00:00",
+        "Cur_OfficialRate": 3.1994
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-20T00:00:00",
+        "Cur_OfficialRate": 3.2149
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-21T00:00:00",
+        "Cur_OfficialRate": 3.2149
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-22T00:00:00",
+        "Cur_OfficialRate": 3.2149
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-23T00:00:00",
+        "Cur_OfficialRate": 3.2152
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-24T00:00:00",
+        "Cur_OfficialRate": 3.2202
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-25T00:00:00",
+        "Cur_OfficialRate": 3.2221
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-26T00:00:00",
+        "Cur_OfficialRate": 3.2133
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-27T00:00:00",
+        "Cur_OfficialRate": 3.2101
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-28T00:00:00",
+        "Cur_OfficialRate": 3.2101
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-29T00:00:00",
+        "Cur_OfficialRate": 3.2101
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-09-30T00:00:00",
+        "Cur_OfficialRate": 3.2113
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-01T00:00:00",
+        "Cur_OfficialRate": 3.2163
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-02T00:00:00",
+        "Cur_OfficialRate": 3.2181
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-03T00:00:00",
+        "Cur_OfficialRate": 3.2522
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-04T00:00:00",
+        "Cur_OfficialRate": 3.2641
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-05T00:00:00",
+        "Cur_OfficialRate": 3.2641
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-06T00:00:00",
+        "Cur_OfficialRate": 3.2641
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-07T00:00:00",
+        "Cur_OfficialRate": 3.2524
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-08T00:00:00",
+        "Cur_OfficialRate": 3.2712
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-09T00:00:00",
+        "Cur_OfficialRate": 3.2852
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-10T00:00:00",
+        "Cur_OfficialRate": 3.2909
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-11T00:00:00",
+        "Cur_OfficialRate": 3.3011
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-12T00:00:00",
+        "Cur_OfficialRate": 3.3011
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-13T00:00:00",
+        "Cur_OfficialRate": 3.3011
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-14T00:00:00",
+        "Cur_OfficialRate": 3.2832
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-15T00:00:00",
+        "Cur_OfficialRate": 3.2897
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-16T00:00:00",
+        "Cur_OfficialRate": 3.2919
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-17T00:00:00",
+        "Cur_OfficialRate": 3.3104
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-18T00:00:00",
+        "Cur_OfficialRate": 3.3119
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-19T00:00:00",
+        "Cur_OfficialRate": 3.3119
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-20T00:00:00",
+        "Cur_OfficialRate": 3.3119
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-21T00:00:00",
+        "Cur_OfficialRate": 3.2948
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-22T00:00:00",
+        "Cur_OfficialRate": 3.2891
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-23T00:00:00",
+        "Cur_OfficialRate": 3.2932
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-24T00:00:00",
+        "Cur_OfficialRate": 3.2979
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-25T00:00:00",
+        "Cur_OfficialRate": 3.2994
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-26T00:00:00",
+        "Cur_OfficialRate": 3.2994
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-27T00:00:00",
+        "Cur_OfficialRate": 3.2994
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-28T00:00:00",
+        "Cur_OfficialRate": 3.2965
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-29T00:00:00",
+        "Cur_OfficialRate": 3.3057
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-30T00:00:00",
+        "Cur_OfficialRate": 3.3127
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-10-31T00:00:00",
+        "Cur_OfficialRate": 3.3185
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-01T00:00:00",
+        "Cur_OfficialRate": 3.3162
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-02T00:00:00",
+        "Cur_OfficialRate": 3.3162
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-03T00:00:00",
+        "Cur_OfficialRate": 3.3162
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-04T00:00:00",
+        "Cur_OfficialRate": 3.3203
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-05T00:00:00",
+        "Cur_OfficialRate": 3.3269
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-06T00:00:00",
+        "Cur_OfficialRate": 3.3324
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-07T00:00:00",
+        "Cur_OfficialRate": 3.3324
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-08T00:00:00",
+        "Cur_OfficialRate": 3.3324
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-09T00:00:00",
+        "Cur_OfficialRate": 3.3324
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-10T00:00:00",
+        "Cur_OfficialRate": 3.3324
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-11T00:00:00",
+        "Cur_OfficialRate": 3.3312
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-12T00:00:00",
+        "Cur_OfficialRate": 3.3407
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-13T00:00:00",
+        "Cur_OfficialRate": 3.3482
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-14T00:00:00",
+        "Cur_OfficialRate": 3.3526
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-15T00:00:00",
+        "Cur_OfficialRate": 3.3635
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-16T00:00:00",
+        "Cur_OfficialRate": 3.3751
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-17T00:00:00",
+        "Cur_OfficialRate": 3.3751
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-18T00:00:00",
+        "Cur_OfficialRate": 3.38
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-19T00:00:00",
+        "Cur_OfficialRate": 3.3897
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-20T00:00:00",
+        "Cur_OfficialRate": 3.3936
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-21T00:00:00",
+        "Cur_OfficialRate": 3.4007
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-22T00:00:00",
+        "Cur_OfficialRate": 3.415
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-23T00:00:00",
+        "Cur_OfficialRate": 3.415
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-24T00:00:00",
+        "Cur_OfficialRate": 3.415
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-25T00:00:00",
+        "Cur_OfficialRate": 3.427
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-26T00:00:00",
+        "Cur_OfficialRate": 3.4682
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-27T00:00:00",
+        "Cur_OfficialRate": 3.4725
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-28T00:00:00",
+        "Cur_OfficialRate": 3.533
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-29T00:00:00",
+        "Cur_OfficialRate": 3.5951
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-11-30T00:00:00",
+        "Cur_OfficialRate": 3.5951
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-01T00:00:00",
+        "Cur_OfficialRate": 3.5951
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-02T00:00:00",
+        "Cur_OfficialRate": 3.5701
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-03T00:00:00",
+        "Cur_OfficialRate": 3.5309
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-04T00:00:00",
+        "Cur_OfficialRate": 3.5227
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-05T00:00:00",
+        "Cur_OfficialRate": 3.4923
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-06T00:00:00",
+        "Cur_OfficialRate": 3.4795
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-07T00:00:00",
+        "Cur_OfficialRate": 3.4795
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-08T00:00:00",
+        "Cur_OfficialRate": 3.4795
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-09T00:00:00",
+        "Cur_OfficialRate": 3.4065
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-10T00:00:00",
+        "Cur_OfficialRate": 3.3775
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-11T00:00:00",
+        "Cur_OfficialRate": 3.4049
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-12T00:00:00",
+        "Cur_OfficialRate": 3.4556
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-13T00:00:00",
+        "Cur_OfficialRate": 3.485
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-14T00:00:00",
+        "Cur_OfficialRate": 3.485
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-15T00:00:00",
+        "Cur_OfficialRate": 3.485
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-16T00:00:00",
+        "Cur_OfficialRate": 3.4755
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-17T00:00:00",
+        "Cur_OfficialRate": 3.4658
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-18T00:00:00",
+        "Cur_OfficialRate": 3.4631
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-19T00:00:00",
+        "Cur_OfficialRate": 3.4714
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-20T00:00:00",
+        "Cur_OfficialRate": 3.472
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-21T00:00:00",
+        "Cur_OfficialRate": 3.472
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-22T00:00:00",
+        "Cur_OfficialRate": 3.472
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-23T00:00:00",
+        "Cur_OfficialRate": 3.4468
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-24T00:00:00",
+        "Cur_OfficialRate": 3.4427
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-25T00:00:00",
+        "Cur_OfficialRate": 3.4427
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-26T00:00:00",
+        "Cur_OfficialRate": 3.4216
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-27T00:00:00",
+        "Cur_OfficialRate": 3.407
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-28T00:00:00",
+        "Cur_OfficialRate": 3.407
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-29T00:00:00",
+        "Cur_OfficialRate": 3.407
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-30T00:00:00",
+        "Cur_OfficialRate": 3.4301
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2024-12-31T00:00:00",
+        "Cur_OfficialRate": 3.4735
+    },
+    {
+        "Cur_ID": 431,
         "Date": "2025-01-01T00:00:00",
         "Cur_OfficialRate": 3.4735
     },
@@ -1233,5 +1818,10 @@
         "Cur_ID": 431,
         "Date": "2025-09-04T00:00:00",
         "Cur_OfficialRate": 2.9875
+    },
+    {
+        "Cur_ID": 431,
+        "Date": "2025-09-05T00:00:00",
+        "Cur_OfficialRate": 2.9994
     }
 ]

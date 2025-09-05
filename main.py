@@ -1,8 +1,6 @@
 import pandas as pd
 
-with open('data.json', 'r') as file:
-    data = file.read()
+df = pd.read_json('data.json')
+day_max_cur = df.loc[df['Cur_OfficialRate'].idxmax()]
 
-
-for item in list(data):
-    print(item)
+print(day_max_cur)

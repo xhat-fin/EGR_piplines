@@ -1,7 +1,7 @@
 import requests
 import json
 
-response = requests.get('https://api.nbrb.by/exrates/rates/dynamics/431?startDate=2025-01-01&endDate=2025-09-04')
+response = requests.get('https://api.nbrb.by/exrates/rates/dynamics/431?startDate=2024-09-06&endDate=2025-09-05')
 data = response.json()
 print(data)
 
