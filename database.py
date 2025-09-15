@@ -92,6 +92,39 @@ def init_db():
                     vnvpom VARCHAR(1000),
                     nsi00239 VARCHAR(1000)
                 );
+            """)
+
+        cur.execute(
+            """
+                CREATE TABLE IF NOT EXISTS base_info(
+                    id SERIAL PRIMARY KEY,
+                    dfrom DATE,
+                    dto DATE,
+                    ngrn VARCHAR(20),
+                    vnrcrt VARCHAR(1000),
+                    vnrlkv VARCHAR(1000),
+                    nsi00208_nkscrt VARCHAR(1000),
+                    nsi00208_nsi00208 VARCHAR(1000),
+                    nsi00208_vnscrtp VARCHAR(1000),
+                    nsi00211_nkvob VARCHAR(1000),
+                    nsi00211_nsi00211 VARCHAR(1000),
+                    nsi00211_vnvobp VARCHAR(1000),
+                    nsi00212_nkuz VARCHAR(1000),
+                    nsi00212_nsi00212 VARCHAR(1000),
+                    nsi00212_vnuzp VARCHAR(1000),
+                    nsi00212CRT_nkuz VARCHAR(1000),
+                    nsi00212CRT_nsi00212 VARCHAR(1000),
+                    nsi00212CRT_vnuzp VARCHAR(1000),
+                    nsi00212LKV_nkuz VARCHAR(1000),
+                    nsi00212LKV_nsi00212 VARCHAR(1000),
+                    nsi00212LKV_vnuzp VARCHAR(1000),
+                    nsi00219_nksost VARCHAR(1000),
+                    nsi00219_nsi00219 VARCHAR(1000),
+                    nsi00219_vnsostk VARCHAR(1000),
+                    nsi00228_nkslkv VARCHAR(1000),
+                    nsi00228_nsi00228 VARCHAR(1000),
+                    nsi00228_vnslkvp VARCHAR(1000)
+                )
             """
         )
 
