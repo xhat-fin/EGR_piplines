@@ -1,13 +1,15 @@
 import json
+import os
+
 import psycopg2
 
 
 db_info = {
-    'database': 'info',
-    'user': 'postgres',
-    'password': 'Totem123',
-    'host': 'localhost',
-    'port': '5432'
+    'database': os.getenv('database'),
+    'user': os.getenv('user'),
+    'password': os.getenv('password'),
+    'host': os.getenv('host'),
+    'port': os.getenv('port')
 }
 
 
